@@ -1,0 +1,3 @@
+DisplayName,Alias,PrimarySmtpAddress,ExternalForwardAddress
+John Smith,john.smith,john.smith@internal.com,john.smith@external.com
+
